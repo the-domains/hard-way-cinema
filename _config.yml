@@ -1,7 +1,7 @@
 name: Hard Way Cinema
 favicon: null
-layout_spectrum: 0.08091225987300277
-typography_spectrum: 0.44849675754085183
+layout_spectrum: 0.24421
+typography_spectrum: 0.71621
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.21323804231360555
-  lightness: 0.4095640010200441
-  saturation: 0.9704800012987107
-  rhythmicContrast: 0.5900408320594579
+    - '#000000'
+    - '#ffffff'
+    - '#c3daca'
+    - '#064844'
+    - '#599c8b'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
